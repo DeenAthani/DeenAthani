@@ -1,16 +1,32 @@
-## Hi there 👋
+بسم الله الرحمن الرحيم
+# Salah al-Din
 
-<!--
-**DeenAthani/DeenAthani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student @ WGU, focused on **AI, ML, and mathematical computing**.
 
-Here are some ideas to get you started:
+Primary interests lie at the intersection of **mathematics, and systems engineering**. Particularly focused on **Machine Learning** (with an emphasis on **Computer Vision**).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+
+Current areas of investigation include:
+
+* Computer Vision: visual perception and scene understanding
+* Cognitive Science: computational models of human cognition
+* NeuroAI: bridging neuroscience and machine learning
+* Robotics: embodied intelligence and sensorimotor learning
+
+---
+
+## Current Focus
+
+* Deepening theoretical foundations in mathematics.
+* Developing pipelines for deep learning experimentation.
+* Contributing to open-source scientific computing and ML projects.
+---
+
+## Contact & Collaboration
+
+* [**Email:**](mailto:staymu1@wgu.edu)
+* [**LinkedIn:**](https://www.linkedin.com/in/salahaldin-t)
+* I am open to collaboration; please use GitHub Issues or Discussions for project-specific correspondence.
