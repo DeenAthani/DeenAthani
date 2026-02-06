@@ -11,8 +11,8 @@ Primary interests lie at the intersection of **mathematics, and systems engineer
 
 Current areas of investigation include:
 
+* LLM Research : machines understanding human language
 * Computer Vision: visual perception and scene understanding
-* Cognitive Science: computational models of human cognition
 * NeuroAI: bridging neuroscience and machine learning
 * Robotics: embodied intelligence and sensorimotor learning
 
