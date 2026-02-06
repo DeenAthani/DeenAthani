@@ -1,7 +1,7 @@
 بسم الله الرحمن الرحيم
 # Salah al-Din
 
-Computer Science student @ WGU, focused on **AI, ML, and mathematical computing**.
+Computer Science student @ WGU, focused on **AI, ML, and scientific computing**.
 
 Primary interests lie at the intersection of **mathematics, and systems engineering**. Particularly focused on **Machine Learning** (with an emphasis on **Computer Vision**).
 
